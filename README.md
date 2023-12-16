@@ -1,5 +1,8 @@
+# Django + React
+## By Chau The Khanh
+
 ## Integrating Frontend And Backend For Efficient Web Development
-<img src="img/ReactDjango.png" height="400" width="800">
+<img src="img/ReactDjango.png" height="500" width="800">
 
 ## Technologies Used:
 <ul>
