@@ -79,5 +79,5 @@ In another terminal, navigate to your React app directory and run:
 ```bash
 npm start
 ```
-
+## 2. Result
 <img src="https://assets.digitalocean.com/articles/build-a-to-do-application-using-django-and-react/kbrt3naby6pzcvhntpgr.gif" height="500" width="800">
