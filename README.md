@@ -1,4 +1,5 @@
-# Django + React
+# Django + React P1
+-- Build a To-Do application Using Django and React
 ## By Chau The Khanh
 
 ## Integrating Frontend And Backend For Efficient Web Development
@@ -78,3 +79,5 @@ In another terminal, navigate to your React app directory and run:
 ```bash
 npm start
 ```
+
+<img src="https://assets.digitalocean.com/articles/build-a-to-do-application-using-django-and-react/kbrt3naby6pzcvhntpgr.gif" height="500" width="800">
